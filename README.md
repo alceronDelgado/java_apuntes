@@ -2,4 +2,4 @@
 
 ---
 
-+ [!Apuntes#1](book1/apuntes#1.MD")
++ ![Apuntes#1](book1/apuntes#1.MD)
